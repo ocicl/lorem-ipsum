@@ -1,0 +1,10 @@
+* lorem-ipsum
+
+Lorem ipsum generator in portable Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/lorem-ipsum.git   |
+| commit  | 04a1839  |
+| systems | lorem-ipsum |
+|---------+-------------------------------------------|
+
