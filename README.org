@@ -8,4 +8,4 @@ Lorem ipsum generator in portable Common Lisp
 | systems | lorem-ipsum |
 |---------+-------------------------------------------|
 
- 
+  
